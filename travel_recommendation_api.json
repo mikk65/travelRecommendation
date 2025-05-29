@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Goa Beach",
+    "type": "beach",
+    "description": "A beautiful beach in Goa, India.",
+    "imageUrl": "images/goa.jpg"
+  },
+  {
+    "name": "Bondi Beach",
+    "type": "beach",
+    "description": "Famous beach in Australia.",
+    "imageUrl": "images/bondi.jpg"
+  },
+  {
+    "name": "Golden Temple",
+    "type": "temple",
+    "description": "Spiritual center in Amritsar, India.",
+    "imageUrl": "images/golden_temple.jpg"
+  },
+  {
+    "name": "Wat Arun",
+    "type": "temple",
+    "description": "Temple of Dawn in Bangkok, Thailand.",
+    "imageUrl": "images/wat_arun.jpg"
+  },
+  {
+    "name": "India",
+    "type": "country",
+    "description": "Diverse country with rich culture.",
+    "imageUrl": "images/india.jpg"
+  },
+  {
+    "name": "Japan",
+    "type": "country",
+    "description": "Land of the rising sun.",
+    "imageUrl": "images/japan.jpg"
+  }
+]
